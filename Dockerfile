@@ -36,3 +36,4 @@ CMD ["php", "-S", "0.0.0.0:8080", "index.php"]
 
 #TEST RUN
 #docker run -it --rm -p 5000:8080 senarmstrong07/tesseract_ocr_g8
+#To run the program: http://localhost:5000
